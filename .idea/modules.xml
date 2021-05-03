@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeNERIC/GeNERIC.iml" filepath="$PROJECT_DIR$/GeNERIC/GeNERIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOStream/IOStream.iml" filepath="$PROJECT_DIR$/IOStream/IOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Internet/Internet.iml" filepath="$PROJECT_DIR$/Internet/Internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2SE进阶.iml" filepath="$PROJECT_DIR$/J2SE进阶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda测试/Lambda测试.iml" filepath="$PROJECT_DIR$/Lambda测试/Lambda测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-Thread/Multi-Thread.iml" filepath="$PROJECT_DIR$/Multi-Thread/Multi-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionalTest/OptionalTest.iml" filepath="$PROJECT_DIR$/OptionalTest/OptionalTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionTest/ReflectionTest.iml" filepath="$PROJECT_DIR$/ReflectionTest/ReflectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringTest/StringTest.iml" filepath="$PROJECT_DIR$/StringTest/StringTest.iml" />
+    </modules>
+  </component>
+</project>
